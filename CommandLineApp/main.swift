@@ -7,6 +7,4 @@
 
 import Foundation
 
-print("Hello, World!")
-
-
+print("Mac m1 checking gitHub access!")
